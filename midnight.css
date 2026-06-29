@@ -1239,7 +1239,7 @@ body {
         --scrollbar-auto-scrollbar-color-thumb: yellow;
         --scrollbar-auto-scrollbar-color-track: lime;
         --scrollbar-auto-thumb: transparent;
-        --scrollbar-auto-track: var(--bg-4);
+        --scrollbar-auto-track: transparent;
         --scrollbar-thin-thumb: transparent;
         --scrollbar-thin-track: var(--bg-4);
         --spine-default: var(--text-5);
