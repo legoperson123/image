@@ -1238,9 +1238,9 @@ body {
         --redesign-button-tertiary-text: red;
         --scrollbar-auto-scrollbar-color-thumb: yellow;
         --scrollbar-auto-scrollbar-color-track: lime;
-        --scrollbar-auto-thumb: var(--bg-5);
+        --scrollbar-auto-thumb: var(--bg-4);
         --scrollbar-auto-track: transparent;
-        --scrollbar-thin-thumb: var(--bg-5);
+        --scrollbar-thin-thumb: var(--bg-4);
         --scrollbar-thin-track: transparent;
         --spine-default: var(--text-5);
         --spoiler-hidden-background: yellow;
