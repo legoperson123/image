@@ -1238,10 +1238,10 @@ body {
         --redesign-button-tertiary-text: red;
         --scrollbar-auto-scrollbar-color-thumb: yellow;
         --scrollbar-auto-scrollbar-color-track: lime;
-        --scrollbar-auto-thumb: var(--bg-4);
-        --scrollbar-auto-track: transparent;
-        --scrollbar-thin-thumb: var(--bg-4);
-        --scrollbar-thin-track: transparent;
+        --scrollbar-auto-thumb: transparent;
+        --scrollbar-auto-track: var(--bg-4);
+        --scrollbar-thin-thumb: transparent;
+        --scrollbar-thin-track: var(--bg-4);
         --spine-default: var(--text-5);
         --spoiler-hidden-background: yellow;
         --spoiler-hidden-background-hover: lime;
