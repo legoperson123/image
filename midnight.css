@@ -1239,9 +1239,9 @@ body {
         --scrollbar-auto-scrollbar-color-thumb: yellow;
         --scrollbar-auto-scrollbar-color-track: lime;
         --scrollbar-auto-thumb: var(--bg-4);
-        --scrollbar-auto-track: transparent;
+        --scrollbar-auto-track: var(--bg-4);
         --scrollbar-thin-thumb: var(--bg-4);
-        --scrollbar-thin-track: transparent;
+        --scrollbar-thin-track: var(--bg-4);
         --spine-default: var(--text-5);
         --spoiler-hidden-background: yellow;
         --spoiler-hidden-background-hover: lime;
